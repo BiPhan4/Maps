@@ -1,0 +1,1 @@
+edf3f4772650a563883be6757f54b4217a0043c9320914fd5bde86be315159d0  ./target/wasm32-unknown-unknown/release/counter.wasm
